@@ -1,0 +1,3 @@
+rootProject.name = 'Transparence_App'
+
+include ':app'
